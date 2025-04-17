@@ -1,0 +1,20 @@
+Summary: 
+# Scam Call Analysis
+
+In this call, the scammer posed as "Lisa Thompson" from a bank's fraud prevention department, claiming there was suspicious activity on the user's account that required immediate action.
+
+## What the user did correctly:
+- The user eventually recognized and called out that this was a scam call
+- The user refused to provide any personal or financial information
+- The user ended the conversation once they identified it as a scam
+- The user was skeptical from the beginning and did not follow the scammer's instructions
+
+## What the user did incorrectly:
+- The user initially engaged with the scammer rather than hanging up immediately
+- The user used inappropriate and unprofessional language during the call
+- The user's approach of making inappropriate romantic/sexual comments was not an advisable way to handle suspected scam calls
+
+The best approach when receiving suspicious calls claiming to be from your bank is to hang up immediately and call your bank directly using the official number on your card or statement.
+
+Success: Excellent
+
