@@ -45,12 +45,8 @@ def wait_for_call_end(client, call_id, timeout=300):
                 return True
             
             if current_status != last_status:
-                print(f"Call Status: {current_status}")  # Debug log
+                print(f"Call Status: {current_status}")  
 
-            # Exit if call ended
-            
-
-            # Optional: Handle other terminal states (if needed)
             elif current_status in ["failed", "no-answer"]:
                 print(f"Call terminated with status: {current_status}")
                 return False
@@ -95,7 +91,7 @@ try:
 
     # Wait for call to finish
     if wait_for_call_end(client, call.id):
-        # Fetch data (with retries in case processing is delayed)
+        # Fetch data 
         analysis = get_call_data(client, call.id)
         if analysis:
             with open("Summary.txt", "w") as f:
