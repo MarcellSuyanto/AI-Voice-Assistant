@@ -19,7 +19,7 @@ Before you begin, ensure you have the following:
 - .env file containing respective API keys and Twilio phone number
 
 ## Requirements
-```pip install vapi os dotenv```
+```pip install vapi_server_sdk os dotenv```
 
 ## What main.py does
 We access the VAPI API to retrieve the AI Agent and calls the Twilio phone number.  
